@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "file-saver": "^2.0.5",
+    "node-vibrant": "^4.0.3",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-color": "^2.19.3",
+    "react-dom": "^19.1.1",
+    "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
